@@ -43,7 +43,7 @@ while True:
 
     cv2.imshow('dst',dst)
     if cv2.waitKey(1) & 0xFF == ord('q'):  # 按q保存一张图片
-        cv2.imwrite("./frame.jpg", frame)
+        cv2.imwrite("./frame.jpg", frame)#写入图片
         break
 #释放窗口
 camera.release()
