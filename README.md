@@ -4,3 +4,4 @@
 ###### **Based on opencv4.0 pyzbar and python, real-time detection + positioning of the two-dimensional code is realized, and the real-time identification, detection, and positioning of the two-dimensional code are completed by using the camera, and the center point of the two-dimensional code and the smallest external rectangle are obtained.
 
 演示图
+![img](https://github.com/ZengWenJian123/qrcode_recognition/blob/master/Snipaste_2020-06-23_08-20-27.png?raw=true)
